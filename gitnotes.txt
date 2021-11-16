@@ -36,8 +36,17 @@ nano - runs script file text editor
 expr - reads the line as expression
 if/elif/else conditions - conditional statements for comparison
 fi - finishes if/else conditions
-(( "$x" == "$y")) or ["$x" -eq "$y"] - examples of logical comparisons
+
+["$x" -eq "$y"] - examples of logical comparisons
 <  >  ==  <=  >== !=
 -lt -gt -eq -le -ge -ne
 || - logical or
 && - logical and
+the syntaxes of equations can be very jank (place spaces between equations or else it may not work as intended)
+
+let addition=$x+$y
+let subtract=$x-$y
+let multiply=$x*$y
+let divide=$x/$y
+let modulus=$x%$y
+the syntaxes of expressions can be very jank as well (do not place spaces between equations or else it may not work as intended)
