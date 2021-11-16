@@ -1,0 +1,43 @@
+Bash:
+pwd - prints the current working directory
+cd - change directory
+mkdir [file directory]
+touch [filename] - creates file it not exist or updates date time stamp
+ls - list files (-a < list files including hidden ones)
+rm [filename] - remove target file
+rm -r [file directory] - remove target folder
+rm -i - request confirmation
+git clone [git repository.git]
+cat [filename] - print file contents
+./ - list current location
+.. - parent dir
+~ - home dir
+exit - close bash application
+start - use default program to open/run a file
+explore . - opens file explorer 
+echo - prints out msg ( > [txt file] - override msg in file ) ( >> - appends to msg )
+which - prints the location/$path of the executable (git, bash, python3, explorer, etc)
+version - flag the prints out the ver of a utility
+head - print first 10 (default) files in the list / -[x] to specify exact number
+| - pipe character (allows to run multiple statements in one line)
+ex. ( ls ./trainer-code/wk1/ | head -3 )
+
+git commands:
+clone - creates a copy of a remote repo to a local location
+add [filename] - add file (git add . - add everything in current working directory)
+status - list all changes/additions/removals in local git repository
+commit -m "msg" - bundle changes before pushing the repo (-m required for msg)
+restore - discard changes in working directory
+push - pushes all contents into the git repository database
+pull - updates all contents from git repository
+
+nano - runs script file text editor
+.sh - shell file application
+expr - reads the line as expression
+if/elif/else conditions - conditional statements for comparison
+fi - finishes if/else conditions
+(( "$x" == "$y")) or ["$x" -eq "$y"] - examples of logical comparisons
+<  >  ==  <=  >== !=
+-lt -gt -eq -le -ge -ne
+|| - logical or
+&& - logical and
