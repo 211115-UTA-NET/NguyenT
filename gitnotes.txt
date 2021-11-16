@@ -42,6 +42,17 @@ fi - finishes if/else conditions
 -lt -gt -eq -le -ge -ne
 || - logical or
 && - logical and
+
+example:
+read xinput
+if [ $xinput == 'y' ] || [ $xinput == 'Y' ]; then
+    echo "YES"
+elif [ $xinput == 'n' ] || [ $xinput == 'N' ]; then
+    echo "NO"
+else
+    echo "That input is not 'y' or 'n'." 
+fi
+
 the syntaxes of equations can be very jank (place spaces between equations or else it may not work as intended)
 
 let addition=$x+$y
@@ -49,4 +60,5 @@ let subtract=$x-$y
 let multiply=$x*$y
 let divide=$x/$y
 let modulus=$x%$y
+
 the syntaxes of expressions can be very jank as well (do not place spaces between equations or else it may not work as intended)
