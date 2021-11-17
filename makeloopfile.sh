@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 mkdir ./loopresult
 touch ./loopresult/loopfile.txt
 echo "Results from makeloopfile.sh file" > ./loopresult/loopfile.txt

@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 # make file directory variable to read
 cwd=$(pwd)
 # variable for loop to add more files if user wants to
@@ -8,6 +10,8 @@ while [ "$addfile" = "y" ] || [ "$addfile" = "Y" ]; do
 	# --ask to select the file(s) in the working directory--
 	echo "Which file(s) should be uploaded in this directory?"
 	echo "Your current working directory: $cwd"
+	echo "Your files in this working directory:"
+	ls
 	read file
 	
 	# --check if all files are selected or if no response was made and proceed if conditions are met--
