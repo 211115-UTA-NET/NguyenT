@@ -62,3 +62,19 @@ let divide=$x/$y
 let modulus=$x%$y
 
 the syntaxes of expressions can be very jank as well (do not place spaces between equations or else it may not work as intended)
+
+Primitive data types
+boolean - logical true or false, Y or N, on or off (1 - bit to use, allocates slightly more)
+int - all whole numbers from -2147483648 to 2147483647 (inclusive) (signed 32-bit integer)
+short - all whole numbers from -32,768 to 32,767 (inclusive) (signed 16-bit integer)
+byte - all whole numbers from 0 to 255 (inclusive) (unsigned 8-bit integer)
+long - all real numbers beyond normal comparison (extremely long numbers)
+double - all real numbers from +-5.0*10^-324 to +- 1.7*10^308 (signed 32-bit) (low precision)
+float - all real numbers from +-1.5*10^-45 to +-3.4*10^38 (signed 4-bytes)
+char - unicode character (UTF-16)
+
+int foo = 10;
+foo is an object of type int
+
+string NewString = "Hi"
+NewString is an object type string
