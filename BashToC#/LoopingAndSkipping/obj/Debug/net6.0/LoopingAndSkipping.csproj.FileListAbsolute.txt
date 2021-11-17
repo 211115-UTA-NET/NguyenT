@@ -1,0 +1,15 @@
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingAndSkipping\bin\Debug\net6.0\LoopingAndSkipping.exe
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingAndSkipping\bin\Debug\net6.0\LoopingAndSkipping.deps.json
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingAndSkipping\bin\Debug\net6.0\LoopingAndSkipping.runtimeconfig.json
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingAndSkipping\bin\Debug\net6.0\LoopingAndSkipping.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingAndSkipping\bin\Debug\net6.0\ref\LoopingAndSkipping.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingAndSkipping\bin\Debug\net6.0\LoopingAndSkipping.pdb
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.csproj.AssemblyReference.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.GeneratedMSBuildEditorConfig.editorconfig
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.AssemblyInfoInputs.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.AssemblyInfo.cs
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.csproj.CoreCompileInputs.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingAndSkipping\obj\Debug\net6.0\ref\LoopingAndSkipping.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.pdb
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingAndSkipping\obj\Debug\net6.0\LoopingAndSkipping.genruntimeconfig.cache

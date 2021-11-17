@@ -1,0 +1,15 @@
+F:\[Revature]\[Git]\TommyN\BashToC#\LetsEcho\bin\Debug\net6.0\LetsEcho.exe
+F:\[Revature]\[Git]\TommyN\BashToC#\LetsEcho\bin\Debug\net6.0\LetsEcho.deps.json
+F:\[Revature]\[Git]\TommyN\BashToC#\LetsEcho\bin\Debug\net6.0\LetsEcho.runtimeconfig.json
+F:\[Revature]\[Git]\TommyN\BashToC#\LetsEcho\bin\Debug\net6.0\LetsEcho.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\LetsEcho\bin\Debug\net6.0\ref\LetsEcho.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\LetsEcho\bin\Debug\net6.0\LetsEcho.pdb
+F:\[Revature]\[Git]\TommyN\BashToC#\LetsEcho\obj\Debug\net6.0\LetsEcho.csproj.AssemblyReference.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\LetsEcho\obj\Debug\net6.0\LetsEcho.GeneratedMSBuildEditorConfig.editorconfig
+F:\[Revature]\[Git]\TommyN\BashToC#\LetsEcho\obj\Debug\net6.0\LetsEcho.AssemblyInfoInputs.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\LetsEcho\obj\Debug\net6.0\LetsEcho.AssemblyInfo.cs
+F:\[Revature]\[Git]\TommyN\BashToC#\LetsEcho\obj\Debug\net6.0\LetsEcho.csproj.CoreCompileInputs.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\LetsEcho\obj\Debug\net6.0\LetsEcho.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\LetsEcho\obj\Debug\net6.0\ref\LetsEcho.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\LetsEcho\obj\Debug\net6.0\LetsEcho.pdb
+F:\[Revature]\[Git]\TommyN\BashToC#\LetsEcho\obj\Debug\net6.0\LetsEcho.genruntimeconfig.cache

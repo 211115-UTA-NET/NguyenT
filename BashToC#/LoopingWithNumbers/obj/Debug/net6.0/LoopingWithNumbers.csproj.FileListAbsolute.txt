@@ -1,0 +1,15 @@
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingWithNumbers\bin\Debug\net6.0\LoopingWithNumbers.exe
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingWithNumbers\bin\Debug\net6.0\LoopingWithNumbers.deps.json
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingWithNumbers\bin\Debug\net6.0\LoopingWithNumbers.runtimeconfig.json
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingWithNumbers\bin\Debug\net6.0\LoopingWithNumbers.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingWithNumbers\bin\Debug\net6.0\ref\LoopingWithNumbers.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingWithNumbers\bin\Debug\net6.0\LoopingWithNumbers.pdb
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.csproj.AssemblyReference.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.AssemblyInfoInputs.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.AssemblyInfo.cs
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.csproj.CoreCompileInputs.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingWithNumbers\obj\Debug\net6.0\ref\LoopingWithNumbers.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.pdb
+F:\[Revature]\[Git]\TommyN\BashToC#\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.genruntimeconfig.cache

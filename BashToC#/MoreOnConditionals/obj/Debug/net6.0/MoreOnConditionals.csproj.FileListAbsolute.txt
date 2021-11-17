@@ -1,0 +1,15 @@
+F:\[Revature]\[Git]\TommyN\BashToC#\MoreOnConditionals\bin\Debug\net6.0\MoreOnConditionals.exe
+F:\[Revature]\[Git]\TommyN\BashToC#\MoreOnConditionals\bin\Debug\net6.0\MoreOnConditionals.deps.json
+F:\[Revature]\[Git]\TommyN\BashToC#\MoreOnConditionals\bin\Debug\net6.0\MoreOnConditionals.runtimeconfig.json
+F:\[Revature]\[Git]\TommyN\BashToC#\MoreOnConditionals\bin\Debug\net6.0\MoreOnConditionals.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\MoreOnConditionals\bin\Debug\net6.0\ref\MoreOnConditionals.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\MoreOnConditionals\bin\Debug\net6.0\MoreOnConditionals.pdb
+F:\[Revature]\[Git]\TommyN\BashToC#\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.csproj.AssemblyReference.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.GeneratedMSBuildEditorConfig.editorconfig
+F:\[Revature]\[Git]\TommyN\BashToC#\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.AssemblyInfoInputs.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.AssemblyInfo.cs
+F:\[Revature]\[Git]\TommyN\BashToC#\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.csproj.CoreCompileInputs.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\MoreOnConditionals\obj\Debug\net6.0\ref\MoreOnConditionals.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.pdb
+F:\[Revature]\[Git]\TommyN\BashToC#\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.genruntimeconfig.cache

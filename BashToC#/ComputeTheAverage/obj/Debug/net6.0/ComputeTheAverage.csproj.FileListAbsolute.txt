@@ -1,0 +1,15 @@
+F:\[Revature]\[Git]\TommyN\BashToC#\ComputeTheAverage\bin\Debug\net6.0\ComputeTheAverage.exe
+F:\[Revature]\[Git]\TommyN\BashToC#\ComputeTheAverage\bin\Debug\net6.0\ComputeTheAverage.deps.json
+F:\[Revature]\[Git]\TommyN\BashToC#\ComputeTheAverage\bin\Debug\net6.0\ComputeTheAverage.runtimeconfig.json
+F:\[Revature]\[Git]\TommyN\BashToC#\ComputeTheAverage\bin\Debug\net6.0\ComputeTheAverage.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\ComputeTheAverage\bin\Debug\net6.0\ref\ComputeTheAverage.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\ComputeTheAverage\bin\Debug\net6.0\ComputeTheAverage.pdb
+F:\[Revature]\[Git]\TommyN\BashToC#\ComputeTheAverage\obj\Debug\net6.0\ComputeTheAverage.csproj.AssemblyReference.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\ComputeTheAverage\obj\Debug\net6.0\ComputeTheAverage.GeneratedMSBuildEditorConfig.editorconfig
+F:\[Revature]\[Git]\TommyN\BashToC#\ComputeTheAverage\obj\Debug\net6.0\ComputeTheAverage.AssemblyInfoInputs.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\ComputeTheAverage\obj\Debug\net6.0\ComputeTheAverage.AssemblyInfo.cs
+F:\[Revature]\[Git]\TommyN\BashToC#\ComputeTheAverage\obj\Debug\net6.0\ComputeTheAverage.csproj.CoreCompileInputs.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\ComputeTheAverage\obj\Debug\net6.0\ComputeTheAverage.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\ComputeTheAverage\obj\Debug\net6.0\ref\ComputeTheAverage.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\ComputeTheAverage\obj\Debug\net6.0\ComputeTheAverage.pdb
+F:\[Revature]\[Git]\TommyN\BashToC#\ComputeTheAverage\obj\Debug\net6.0\ComputeTheAverage.genruntimeconfig.cache

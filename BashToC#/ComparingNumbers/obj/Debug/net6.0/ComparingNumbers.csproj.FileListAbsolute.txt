@@ -1,0 +1,15 @@
+F:\[Revature]\[Git]\TommyN\BashToC#\ComparingNumbers\bin\Debug\net6.0\ComparingNumbers.exe
+F:\[Revature]\[Git]\TommyN\BashToC#\ComparingNumbers\bin\Debug\net6.0\ComparingNumbers.deps.json
+F:\[Revature]\[Git]\TommyN\BashToC#\ComparingNumbers\bin\Debug\net6.0\ComparingNumbers.runtimeconfig.json
+F:\[Revature]\[Git]\TommyN\BashToC#\ComparingNumbers\bin\Debug\net6.0\ComparingNumbers.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\ComparingNumbers\bin\Debug\net6.0\ref\ComparingNumbers.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\ComparingNumbers\bin\Debug\net6.0\ComparingNumbers.pdb
+F:\[Revature]\[Git]\TommyN\BashToC#\ComparingNumbers\obj\Debug\net6.0\ComparingNumbers.csproj.AssemblyReference.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\ComparingNumbers\obj\Debug\net6.0\ComparingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\[Revature]\[Git]\TommyN\BashToC#\ComparingNumbers\obj\Debug\net6.0\ComparingNumbers.AssemblyInfoInputs.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\ComparingNumbers\obj\Debug\net6.0\ComparingNumbers.AssemblyInfo.cs
+F:\[Revature]\[Git]\TommyN\BashToC#\ComparingNumbers\obj\Debug\net6.0\ComparingNumbers.csproj.CoreCompileInputs.cache
+F:\[Revature]\[Git]\TommyN\BashToC#\ComparingNumbers\obj\Debug\net6.0\ComparingNumbers.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\ComparingNumbers\obj\Debug\net6.0\ref\ComparingNumbers.dll
+F:\[Revature]\[Git]\TommyN\BashToC#\ComparingNumbers\obj\Debug\net6.0\ComparingNumbers.pdb
+F:\[Revature]\[Git]\TommyN\BashToC#\ComparingNumbers\obj\Debug\net6.0\ComparingNumbers.genruntimeconfig.cache
