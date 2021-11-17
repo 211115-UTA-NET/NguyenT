@@ -6,7 +6,7 @@ cwd=$(pwd)
 addfile="Y"
 
 #this loop is for asking to add more files to push
-while [ $addfile = "y" ] || [ $addfile = "Y" ]; do
+while [ "$addfile" = "y" ] || [ "$addfile" = "Y" ]; do
 	# --ask to select the file(s) in the working directory--
 	echo "Which file(s) should be uploaded in this directory?"
 	echo "Current working directory: $cwd"
@@ -18,7 +18,7 @@ while [ $addfile = "y" ] || [ $addfile = "Y" ]; do
 	if [ "${file: -1}" == "." ]; then
 		echo "Are you sure you want to upload all files in that directory? Type 'y' to allow."
 		read allow
-		if [ $allow == "y" ] || [ $allow == "Y" ]; then
+		if [ "$allow" == "y" ] || [ "$allow" == "Y" ]; then
 			git add "$filename"
 		fi
 	elif [ -z "$filename" ]; then
@@ -30,7 +30,7 @@ while [ $addfile = "y" ] || [ $addfile = "Y" ]; do
 	fi
 	
 	# allow to read if file has been added
-	if [ $allow == "y" ] || [ $allow == Y ]; then
+	if [ "$allow" == "y" ] || [ "$allow" == Y ]; then
 		echo "Attempted to add $filename to the index."
 	fi
 	echo "Do you want to add another file? Type 'y' to add another file."
@@ -42,7 +42,7 @@ echo "Write a commit for the changes made to the files."
 read message
 echo "type 'y' to push these files for change or type anything else to cancel."
 read uploadfile
-if [ $uploadfile == y ] || [ $uploadfile == Y ]; then
+if [ "$uploadfile" == y ] || [ "$uploadfile" == Y ]; then
 	if [ -z "$message" ]; then
 		git commit -m "A commit has been made."
 	else
