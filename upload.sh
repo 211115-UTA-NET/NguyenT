@@ -12,26 +12,26 @@ while [ $addfile = "y" ] || [ $addfile = "Y" ]; do
 	echo "Current working directory: $cwd"
 	echo "Files in this working directory:"
 	ls
-	read file
+	read filename
 	
 	# --check if all files are selected or if no response was made and proceed if conditions are met--
 	if [ "${file: -1}" == "." ]; then
 		echo "Are you sure you want to upload all files in that directory? Type 'y' to allow."
 		read allow
 		if [ $allow == "y" ] || [ $allow == "Y" ]; then
-			git add "$file"
+			git add "$filename"
 		fi
-	elif [ -z "$file" ]; then
+	elif [ -z "$filename" ]; then
 		echo "There is no input."
 		allow=N
 	else
-		git add "$file"
+		git add "$filename"
 		allow=Y
 	fi
 	
 	# allow to read if file has been added
 	if [ $allow == "y" ] || [ $allow == Y ]; then
-		echo "Attempted to add $file to the index."
+		echo "Attempted to add $filename to the index."
 	fi
 	echo "Do you want to add another file? Type 'y' to add another file."
 	read addfile
