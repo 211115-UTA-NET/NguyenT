@@ -1,0 +1,15 @@
+F:\[Revature]\[Git]\TommyN\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\obj\Debug\net6.0\3_DataTypeAndVariablesChallenge-StudentCopy.csproj.AssemblyReference.cache
+F:\[Revature]\[Git]\TommyN\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\obj\Debug\net6.0\3_DataTypeAndVariablesChallenge-StudentCopy.GeneratedMSBuildEditorConfig.editorconfig
+F:\[Revature]\[Git]\TommyN\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\obj\Debug\net6.0\3_DataTypeAndVariablesChallenge-StudentCopy.AssemblyInfoInputs.cache
+F:\[Revature]\[Git]\TommyN\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\obj\Debug\net6.0\3_DataTypeAndVariablesChallenge-StudentCopy.AssemblyInfo.cs
+F:\[Revature]\[Git]\TommyN\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\obj\Debug\net6.0\3_DataTypeAndVariablesChallenge-StudentCopy.csproj.CoreCompileInputs.cache
+F:\[Revature]\[Git]\TommyN\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\bin\Debug\net6.0\3_DataTypeAndVariablesChallenge-StudentCopy.exe
+F:\[Revature]\[Git]\TommyN\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\bin\Debug\net6.0\3_DataTypeAndVariablesChallenge-StudentCopy.deps.json
+F:\[Revature]\[Git]\TommyN\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\bin\Debug\net6.0\3_DataTypeAndVariablesChallenge-StudentCopy.runtimeconfig.json
+F:\[Revature]\[Git]\TommyN\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\bin\Debug\net6.0\3_DataTypeAndVariablesChallenge-StudentCopy.dll
+F:\[Revature]\[Git]\TommyN\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\bin\Debug\net6.0\ref\3_DataTypeAndVariablesChallenge-StudentCopy.dll
+F:\[Revature]\[Git]\TommyN\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\bin\Debug\net6.0\3_DataTypeAndVariablesChallenge-StudentCopy.pdb
+F:\[Revature]\[Git]\TommyN\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\obj\Debug\net6.0\3_DataTypeAndVariablesChallenge-StudentCopy.dll
+F:\[Revature]\[Git]\TommyN\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\obj\Debug\net6.0\ref\3_DataTypeAndVariablesChallenge-StudentCopy.dll
+F:\[Revature]\[Git]\TommyN\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\obj\Debug\net6.0\3_DataTypeAndVariablesChallenge-StudentCopy.pdb
+F:\[Revature]\[Git]\TommyN\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\obj\Debug\net6.0\3_DataTypeAndVariablesChallenge-StudentCopy.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+F:\[Revature]\[Git]\TommyN\CExercises\1_StringManipulation\StringManipulationChallenge\bin\Debug\net6.0\StringManipulationChallenge.exe
+F:\[Revature]\[Git]\TommyN\CExercises\1_StringManipulation\StringManipulationChallenge\bin\Debug\net6.0\StringManipulationChallenge.deps.json
+F:\[Revature]\[Git]\TommyN\CExercises\1_StringManipulation\StringManipulationChallenge\bin\Debug\net6.0\StringManipulationChallenge.runtimeconfig.json
+F:\[Revature]\[Git]\TommyN\CExercises\1_StringManipulation\StringManipulationChallenge\bin\Debug\net6.0\StringManipulationChallenge.dll
+F:\[Revature]\[Git]\TommyN\CExercises\1_StringManipulation\StringManipulationChallenge\bin\Debug\net6.0\ref\StringManipulationChallenge.dll
+F:\[Revature]\[Git]\TommyN\CExercises\1_StringManipulation\StringManipulationChallenge\bin\Debug\net6.0\StringManipulationChallenge.pdb
+F:\[Revature]\[Git]\TommyN\CExercises\1_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.csproj.AssemblyReference.cache
+F:\[Revature]\[Git]\TommyN\CExercises\1_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.GeneratedMSBuildEditorConfig.editorconfig
+F:\[Revature]\[Git]\TommyN\CExercises\1_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.AssemblyInfoInputs.cache
+F:\[Revature]\[Git]\TommyN\CExercises\1_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.AssemblyInfo.cs
+F:\[Revature]\[Git]\TommyN\CExercises\1_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.csproj.CoreCompileInputs.cache
+F:\[Revature]\[Git]\TommyN\CExercises\1_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.dll
+F:\[Revature]\[Git]\TommyN\CExercises\1_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\ref\StringManipulationChallenge.dll
+F:\[Revature]\[Git]\TommyN\CExercises\1_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.pdb
+F:\[Revature]\[Git]\TommyN\CExercises\1_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.genruntimeconfig.cache
