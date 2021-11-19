@@ -78,3 +78,21 @@ foo is an object of type int
 
 string NewString = "Hi"
 NewString is an object type string
+
+1 - 1 bit
+11 - 2 bits
+111 - 4 bits
+1111 - 8 bits
+11111 - 16 bits
+111111 - 32 bits
+1111111 - 64 bits
+11111111 - 128 bits
+signing bits make it possible to have negative values
+
+Changing from positive value to negative: 13 -> -13
+Two's compliment:
+13 (decimal) = (sign-bit)0000 1101 -> (invert)1111 0010 -> (add one)1111 0011
+
+Parsing Strings into other primitive types
+int x = int.Parse(Console.ReadLine());
+int x = int.TryParse(Console.ReadLine()); (
