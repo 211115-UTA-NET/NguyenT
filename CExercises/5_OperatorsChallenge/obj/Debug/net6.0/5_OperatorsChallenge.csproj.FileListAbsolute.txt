@@ -1,0 +1,15 @@
+F:\[Revature]\[Git]\TommyN\CExercises\5_OperatorsChallenge\bin\Debug\net6.0\5_OperatorsChallenge.exe
+F:\[Revature]\[Git]\TommyN\CExercises\5_OperatorsChallenge\bin\Debug\net6.0\5_OperatorsChallenge.deps.json
+F:\[Revature]\[Git]\TommyN\CExercises\5_OperatorsChallenge\bin\Debug\net6.0\5_OperatorsChallenge.runtimeconfig.json
+F:\[Revature]\[Git]\TommyN\CExercises\5_OperatorsChallenge\bin\Debug\net6.0\5_OperatorsChallenge.dll
+F:\[Revature]\[Git]\TommyN\CExercises\5_OperatorsChallenge\bin\Debug\net6.0\ref\5_OperatorsChallenge.dll
+F:\[Revature]\[Git]\TommyN\CExercises\5_OperatorsChallenge\bin\Debug\net6.0\5_OperatorsChallenge.pdb
+F:\[Revature]\[Git]\TommyN\CExercises\5_OperatorsChallenge\obj\Debug\net6.0\5_OperatorsChallenge.csproj.AssemblyReference.cache
+F:\[Revature]\[Git]\TommyN\CExercises\5_OperatorsChallenge\obj\Debug\net6.0\5_OperatorsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+F:\[Revature]\[Git]\TommyN\CExercises\5_OperatorsChallenge\obj\Debug\net6.0\5_OperatorsChallenge.AssemblyInfoInputs.cache
+F:\[Revature]\[Git]\TommyN\CExercises\5_OperatorsChallenge\obj\Debug\net6.0\5_OperatorsChallenge.AssemblyInfo.cs
+F:\[Revature]\[Git]\TommyN\CExercises\5_OperatorsChallenge\obj\Debug\net6.0\5_OperatorsChallenge.csproj.CoreCompileInputs.cache
+F:\[Revature]\[Git]\TommyN\CExercises\5_OperatorsChallenge\obj\Debug\net6.0\5_OperatorsChallenge.dll
+F:\[Revature]\[Git]\TommyN\CExercises\5_OperatorsChallenge\obj\Debug\net6.0\ref\5_OperatorsChallenge.dll
+F:\[Revature]\[Git]\TommyN\CExercises\5_OperatorsChallenge\obj\Debug\net6.0\5_OperatorsChallenge.pdb
+F:\[Revature]\[Git]\TommyN\CExercises\5_OperatorsChallenge\obj\Debug\net6.0\5_OperatorsChallenge.genruntimeconfig.cache
