@@ -28,7 +28,7 @@ public class Program
 		string numText = "42";
 		Console.WriteLine(numText);
 		//object newObject;
-		Text2Num(numText);
+		Text2Num(myText);
 
 	}
 
