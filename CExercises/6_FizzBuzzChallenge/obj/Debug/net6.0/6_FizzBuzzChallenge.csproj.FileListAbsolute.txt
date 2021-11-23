@@ -1,0 +1,15 @@
+F:\[Revature]\[Git]\TommyN\CExercises\6_FizzBuzzChallenge\bin\Debug\net6.0\6_FizzBuzzChallenge.exe
+F:\[Revature]\[Git]\TommyN\CExercises\6_FizzBuzzChallenge\bin\Debug\net6.0\6_FizzBuzzChallenge.deps.json
+F:\[Revature]\[Git]\TommyN\CExercises\6_FizzBuzzChallenge\bin\Debug\net6.0\6_FizzBuzzChallenge.runtimeconfig.json
+F:\[Revature]\[Git]\TommyN\CExercises\6_FizzBuzzChallenge\bin\Debug\net6.0\6_FizzBuzzChallenge.dll
+F:\[Revature]\[Git]\TommyN\CExercises\6_FizzBuzzChallenge\bin\Debug\net6.0\ref\6_FizzBuzzChallenge.dll
+F:\[Revature]\[Git]\TommyN\CExercises\6_FizzBuzzChallenge\bin\Debug\net6.0\6_FizzBuzzChallenge.pdb
+F:\[Revature]\[Git]\TommyN\CExercises\6_FizzBuzzChallenge\obj\Debug\net6.0\6_FizzBuzzChallenge.csproj.AssemblyReference.cache
+F:\[Revature]\[Git]\TommyN\CExercises\6_FizzBuzzChallenge\obj\Debug\net6.0\6_FizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig
+F:\[Revature]\[Git]\TommyN\CExercises\6_FizzBuzzChallenge\obj\Debug\net6.0\6_FizzBuzzChallenge.AssemblyInfoInputs.cache
+F:\[Revature]\[Git]\TommyN\CExercises\6_FizzBuzzChallenge\obj\Debug\net6.0\6_FizzBuzzChallenge.AssemblyInfo.cs
+F:\[Revature]\[Git]\TommyN\CExercises\6_FizzBuzzChallenge\obj\Debug\net6.0\6_FizzBuzzChallenge.csproj.CoreCompileInputs.cache
+F:\[Revature]\[Git]\TommyN\CExercises\6_FizzBuzzChallenge\obj\Debug\net6.0\6_FizzBuzzChallenge.dll
+F:\[Revature]\[Git]\TommyN\CExercises\6_FizzBuzzChallenge\obj\Debug\net6.0\ref\6_FizzBuzzChallenge.dll
+F:\[Revature]\[Git]\TommyN\CExercises\6_FizzBuzzChallenge\obj\Debug\net6.0\6_FizzBuzzChallenge.pdb
+F:\[Revature]\[Git]\TommyN\CExercises\6_FizzBuzzChallenge\obj\Debug\net6.0\6_FizzBuzzChallenge.genruntimeconfig.cache
