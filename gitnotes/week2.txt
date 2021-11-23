@@ -1,0 +1,47 @@
+Functions
+They run codes in it to return a single value
+Variables can only be used in the function and none outside can be called
+The only exception is the calling of another function
+
+Array
+An structure containing a collection of values or objects witht he same type in a fixed length
+
+static void Main()
+{
+	int newInt = 8;
+	int[] intArray = new int[] {3,4,5};
+	int[] secondIntArray = new int[5];
+	
+	int[] arrayone = new int[] {3,4,5};
+	int[] arraytwo = {1,2,3};
+	
+	Console.WriteLine( "newInt = " + newInt );
+	Console.WriteLine( "newArray = " + newArray );
+	
+	Console.WriteLine("arrayone = " + arrayone[1]);
+	Console.WriteLine("arraytwo = " + arraytwo[1]);
+
+}
+
+static void PrintArray(int[] Array)
+{
+	for(int i = 0; i < Array.Length; i++)
+	{
+		Console.WriteLine(Array[i]);
+	}
+}
+
+Main();
+
+Big "O" Notation			Algorithmic Complexity
+O - constant time			1->1
+							5->1
+O^1 - linear time			1->1
+							5->5
+O^n - exponential time time	1->1	\
+							5->25	|nested fors
+							10->100	/
+O^n! - factorial time
+5! = 5*4*3*2*1
+							
+
