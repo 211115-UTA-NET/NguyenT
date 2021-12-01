@@ -1,0 +1,15 @@
+F:\[Revature]\[Git]\TommyN\PersonEmployee\obj\Debug\net6.0\PersonEmployee.csproj.AssemblyReference.cache
+F:\[Revature]\[Git]\TommyN\PersonEmployee\obj\Debug\net6.0\PersonEmployee.GeneratedMSBuildEditorConfig.editorconfig
+F:\[Revature]\[Git]\TommyN\PersonEmployee\obj\Debug\net6.0\PersonEmployee.AssemblyInfoInputs.cache
+F:\[Revature]\[Git]\TommyN\PersonEmployee\obj\Debug\net6.0\PersonEmployee.AssemblyInfo.cs
+F:\[Revature]\[Git]\TommyN\PersonEmployee\obj\Debug\net6.0\PersonEmployee.csproj.CoreCompileInputs.cache
+F:\[Revature]\[Git]\TommyN\PersonEmployee\bin\Debug\net6.0\PersonEmployee.exe
+F:\[Revature]\[Git]\TommyN\PersonEmployee\bin\Debug\net6.0\PersonEmployee.deps.json
+F:\[Revature]\[Git]\TommyN\PersonEmployee\bin\Debug\net6.0\PersonEmployee.runtimeconfig.json
+F:\[Revature]\[Git]\TommyN\PersonEmployee\bin\Debug\net6.0\PersonEmployee.dll
+F:\[Revature]\[Git]\TommyN\PersonEmployee\bin\Debug\net6.0\ref\PersonEmployee.dll
+F:\[Revature]\[Git]\TommyN\PersonEmployee\bin\Debug\net6.0\PersonEmployee.pdb
+F:\[Revature]\[Git]\TommyN\PersonEmployee\obj\Debug\net6.0\PersonEmployee.dll
+F:\[Revature]\[Git]\TommyN\PersonEmployee\obj\Debug\net6.0\ref\PersonEmployee.dll
+F:\[Revature]\[Git]\TommyN\PersonEmployee\obj\Debug\net6.0\PersonEmployee.pdb
+F:\[Revature]\[Git]\TommyN\PersonEmployee\obj\Debug\net6.0\PersonEmployee.genruntimeconfig.cache
