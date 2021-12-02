@@ -41,9 +41,9 @@ namespace SampleNamespace
             Kyler.setHoursWorked(45);
             Console.WriteLine($"New work hours: {Kyler.HoursWorked}");
 
-            Console.WriteLine($"Old salary: {Kyler.HoursWorked}/hour");
+            Console.WriteLine($"Old salary: {Kyler.PayRate}/hour");
             Kyler.setPayRate(20.81);
-            Console.WriteLine($"New salary: {Kyler.HoursWorked}/hour");
+            Console.WriteLine($"New salary: {Kyler.PayRate}/hour");
             Kyler.Introduce();
             Kyler.doWork();
 
