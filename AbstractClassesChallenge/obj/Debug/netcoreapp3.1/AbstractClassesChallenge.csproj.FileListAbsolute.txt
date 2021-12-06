@@ -1,0 +1,5 @@
+F:\[Revature]\[Git]\TommyN\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.csproj.AssemblyReference.cache
+F:\[Revature]\[Git]\TommyN\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.GeneratedMSBuildEditorConfig.editorconfig
+F:\[Revature]\[Git]\TommyN\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.AssemblyInfoInputs.cache
+F:\[Revature]\[Git]\TommyN\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.AssemblyInfo.cs
+F:\[Revature]\[Git]\TommyN\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.csproj.CoreCompileInputs.cache
