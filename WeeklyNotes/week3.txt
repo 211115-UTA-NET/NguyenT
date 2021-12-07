@@ -1,0 +1,368 @@
+====================
+Exceptions - something is wrong while running the code
+
+Try/Catch/Finally Blocks are used to get around the exceptions to keep them from happening
+====================
+try
+{
+	// do this
+}
+catch (error e)
+{
+	// do that
+}
+finally
+{
+	// do this
+}
+----------
+This can be used in a do-while loop
+bool loop = false;
+string? myString;
+
+do
+{
+
+	//this code
+	
+	try
+	{
+	
+		// do this
+		loop = false;
+		
+	}
+	
+	catch (error e)
+	{
+	
+		// do that
+		loop = true;
+		
+	}
+}
+while (loop);
+====================
+Read/Write files - This will let you read and write files for many uses
+
+using System.IO;
+using System;
+
+string path = "./testfile.txt";
+
+
+// Read
+StreamReader reader = new StreamReader(path);
+Console.WriteLine(reader.ReadLine());
+read.Close();
+
+// Write
+StreamWriter writer = new StreamWriter(path);
+writer.WriteLine("This is a new line.");
+writer.Close();
+====================
+Try/Catch to say end of files
+StreamReader reader = new StreamReader(path);
+
+try
+{
+	do
+	{
+		Console.WriteLine(reader.ReadLine());
+	}
+	while(reader.Peek() != -1);
+}
+catch
+{
+	Console.WriteLine("End of file reached");
+}
+finally
+{
+	reader.Close();
+}
+
+
+File class (System.IO)
+
+string path = 
+
+string[] text = {"hi", "hello", "how's it going"};
+
+// Replaces all text in file
+File.WriteAllLines(path, text);
+
+// Appends all text in file
+File.AppendAllLines(path, text);
+====================
+Functional Programming
+-Focuses on functions
+-Follows the logic laid out in sequence
+-Can use recursion
+Uses immutable data
+
+Use when few "things" that need more function
+
+Object Oriented Programming
+- Focuses on the objects
+- ogic can focus on the interaction between objects
+- use loops to iterate through data
+- mutable/changable data
+
+Use when many "things" with limited set of operation/function
+====================
+OOP Principles/Pillars
+-Based on the concepts of objects, which contain data and procedures, we build programs out of objects (classes) that interact with one another.
+====================
+-Abstraction
+-the process of seperating relevent data with irrelevent details to simplify use.
+	-2*6 is actually 2+2+2+2+2+2=12
+	-double-clicking a file
+	-coffee machine
+====================
+-Encapsulation
+-prevents unathorized access to the members of a class.
+	-gumball machine
+	-you can't change a person's name, but you can ask them for it
+====================
+-Inheritance
+-allows you to define a class that reuses the characteristics of a different class
+	-Animal
+		-Reptiles
+		-Mammals
+		-Birds
+	builds "is-a" relationships
+====================
+-Polymorpism
+-a sub/child class implements the same methods in a different way
+	-H2O - state of matter
+		-liquid
+		-solid
+		-steam/vapor
+====================
+Classes - WHAT?
+
+Template or model the ovject we want to create
+
+made of data and actions
+
+DATA-
+Fields - any variable declared as part of the class
+
+
+
+Actions-
+====================
+Methods (a type of function)
+-define an action that a classs can perform. Methods can take parameters that provides input, and return output through parameters, or just return.
+
+properties (like string.Length())
+-methods on a class that are accessed as if they were fields, a property can provide protection for a field, keeping it from being changed without the knowledge of the object.
+
+indexers (allows functionality similar to an array)
+
+Access Modifiers
+-public- Access is NOT restricted (fair game!) - visible in derived classes and are part of the derived class' public interface
+-protected- Access is limited to the containing class, and types derived from it (itself, its child classes) - Visible only in derived classes
+-internal- Access is limited to current assembly - visible only in the same assembly as the base class
+-private- Access it limited to the containing type - members are visible only in the derived classes that are nested in their base class
+====================
+Writing a class program
+
+using System;
+using System.IO;
+using System.Collections.Generic;
+----------
+// Namespace
+namespace SampleNamespace // This gets all code of the same namespace to work together even if they are in different files
+{
+	
+	// Class declaration
+	class Program
+	{
+	
+		// function declaration
+		static void Main(string[] args)
+		{
+		
+			// Console.WriteLine("Hello World!");
+			
+			// Person newGuy = Person("John","Doe");
+			// newGuy.Introduce();
+			
+			// Person someOtherPerson = new Person("Tommy", "Nguyen");
+			// someOtherPerson.Introduce();
+			
+			// Console.WriteLine(newGuy.getfirstName());
+			// newGuy.firstName("Stefan");
+			// Console.WriteLine(newGuy.getfirstName());
+			
+			Employee kyler = new Employee(40m 18.50, "Kyler, "Dennis);
+			Kyler.Introduce();
+			kyler.doWork();
+			
+		
+		}
+		
+	}
+
+}
+----------
+// Person.cs
+// Another Class!
+// AccessModifier class ClassName
+namespace SampleNamespace
+{
+	
+	public class Person
+	{
+		
+		// Fields
+		private string firstName; // default access modifier is private
+		private string lastName;
+		
+		// Constructor(s)
+		public Person()
+		{
+			
+			firstName = "John";	
+			lastName = "Doe";
+			
+		}
+		
+		// same class can be used as long as there are different parameters
+		public Person(string first, string last)
+		{
+			
+			firstName = first;
+			lastName = last;
+			
+		}
+		
+		public void setFirstName(string name)
+		
+		
+		// accessModifier
+		public void Introduce()
+		{
+			
+			Console.WriteLine($"Hello, my name is {firstName} {lastName}");
+			
+		}
+	
+	}
+
+}
+----------
+// Employee.cs
+namespace SampleNamespace
+{
+
+	public class Employee : Person
+	{
+	
+		public int hoursWorked;
+		public double payRate;
+		
+		// constructor
+		public Employee(int hoursWorked, double payRate, string firstName, string lastName) : base(firstName, lastName)
+		{
+		
+			this.hoursWorked = hoursWorked;
+			this.payRate = payRate;
+		
+		}
+		
+		public void DoWork(
+		
+	}
+	
+}
+
+//child class Trainee
+
+----------
+====================
+modifiers - C#Keywords that we use to modify a declaration of a type (class, struct, enum, interface) and type members (fields, properties, method, indexers, etc)
+
+virtual		- used to modify a method (etc) and allow it to be overidden in a derived class.
+
+override	- REQUIRED to extend or modify the abstract or virtual implementation of an inherited method (etc)
+
+abstract	- implies the thing being modified has a missing or incomplete implementation.
+			- abstract classes are intended to be a case class for others.
+			- NOT designed to be instantiated on it's own.
+			- classes, methods, properties, indexers, and events can be abstract.
+			- members marked as abstract MUST be implemented by a NON-abstract class that is derived from the base class.
+
+readonly	- initialization can only occur as part of the declaration or in a constructor in the same class.
+			- Like a const, but it's initialization can be deferred until the constructor finishes.
+
+static		- Classes - cannot be instantiated or extended
+			- if a class is static, ALL of it's members MUST be static.
+			- basically a container for static members.
+			member - cannot use "this" keyword to reference the static methods of property accessors.
+			- All static members belong to the class type, rather than the specific object.
+			references to the static member are through the typr, rather than the object (ex. Class.Struct.prop)
+
+const		- modifies a field to not be changed. Makes it NOT a variable, but a constant.
+			- can be numbers, boolean, string, or null
+			- CANNOT use the static modifier with a const
+	
+			const in x = 0;;
+			public const double myDouble = 6.022e23;
+			private const string ProductName = "Visual C++";
+====================
+abstract class
+- cannot be instantiated on its own.
+- may contain absstract methods and accessors
+- MUST provide implementation for all interface members
+- cannot include the "sealed" modifier
+====================
+abstract method
+- is implicitly a virtual method
+- only permitted in an abstract class
+- do not have {} or method body
+- only have implementation in a derived method using the "override" keyword
+- CANNOT have the "static" or "virtual" modifiers
+====================
+abstract property
+- EVERYTHING about methods holds true
+- abstract properties are written with {}, but still do not have an implementation.
+====================
+abstract class BaseClass {
+	protected int _x = 100;
+	protected int _y = 150;
+	// accessModifier modifier returnType methodName(parameters)
+	public abstract void AbstractMethod();
+	public abstract int X = { get; }
+	public abstract Y { get; )
+}
+	
+class DerivedClass " BaseClass {
+	public override void AbstractMethod() {
+		_x++;
+		_y++;
+	}
+	public override int X {
+	get { return _x + 10; }
+	}
+	public override int Y {
+	get { return _y + 10; }
+}
+====================
+Parameters - objects or values that are passed/sent to a method/function
+	value - sends a copy of the argument
+	type - the framework or structure of an object that we use in C# to define an object's size in memory, boundaries on what can be contained, how it can be used
+	reference - declared with "ref" keyword - passing an arg by reference
+	output - declared with "out" keywork - passing arg by reference. Make a change to a value, and pass it back out of the method
+	parameter array - allows us to send a variable number of parameters to a function. Must be 1-D array.
+	type parameter - when we send only the type of object that will be required to a class
+	
+	int x = 5;
+	int y = 2;
+	myObject.myMethod(x,y);
+	
+	class MyClass<T>
+	{
+		private T value { get; set; }
+	}
